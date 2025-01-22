@@ -1,0 +1,12 @@
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.GrpcProtos\bin\Debug\net6.0\DatosDeConfiguracion.GrpcProtos.deps.json
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.GrpcProtos\bin\Debug\net6.0\DatosDeConfiguracion.GrpcProtos.dll
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.GrpcProtos\bin\Debug\net6.0\DatosDeConfiguracion.GrpcProtos.pdb
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.GrpcProtos\obj\Debug\net6.0\DatosDeConfiguracion.GrpcProtos.csproj.AssemblyReference.cache
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.GrpcProtos\obj\Debug\net6.0\DatosDeConfiguracion.GrpcProtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.GrpcProtos\obj\Debug\net6.0\DatosDeConfiguracion.GrpcProtos.AssemblyInfoInputs.cache
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.GrpcProtos\obj\Debug\net6.0\DatosDeConfiguracion.GrpcProtos.AssemblyInfo.cs
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.GrpcProtos\obj\Debug\net6.0\DatosDeConfiguracion.GrpcProtos.csproj.CoreCompileInputs.cache
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.GrpcProtos\obj\Debug\net6.0\DatosDeConfiguracion.GrpcProtos.dll
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.GrpcProtos\obj\Debug\net6.0\refint\DatosDeConfiguracion.GrpcProtos.dll
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.GrpcProtos\obj\Debug\net6.0\DatosDeConfiguracion.GrpcProtos.pdb
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.GrpcProtos\obj\Debug\net6.0\ref\DatosDeConfiguracion.GrpcProtos.dll

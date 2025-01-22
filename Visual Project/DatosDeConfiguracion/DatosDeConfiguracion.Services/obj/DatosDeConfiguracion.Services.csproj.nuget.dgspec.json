@@ -1,0 +1,413 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Services\\DatosDeConfiguracion.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Application\\DatosDeConfiguracion.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Application\\DatosDeConfiguracion.Application.csproj",
+        "projectName": "DatosDeConfiguracion.Application",
+        "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Application\\DatosDeConfiguracion.Application.csproj",
+        "packagesPath": "C:\\Users\\DARIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DARIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.DataAccess\\DatosDeConfiguracion.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.DataAccess\\DatosDeConfiguracion.DataAccess.csproj"
+              },
+              "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Domain\\DatosDeConfiguracion.Domain.csproj": {
+                "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Domain\\DatosDeConfiguracion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Contracts\\DatosDeConfiguracion.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Contracts\\DatosDeConfiguracion.Contracts.csproj",
+        "projectName": "DatosDeConfiguracion.Contracts",
+        "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Contracts\\DatosDeConfiguracion.Contracts.csproj",
+        "packagesPath": "C:\\Users\\DARIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DARIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Domain\\DatosDeConfiguracion.Domain.csproj": {
+                "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Domain\\DatosDeConfiguracion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.DataAccess\\DatosDeConfiguracion.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.DataAccess\\DatosDeConfiguracion.DataAccess.csproj",
+        "projectName": "DatosDeConfiguracion.DataAccess",
+        "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.DataAccess\\DatosDeConfiguracion.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\DARIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DARIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Contracts\\DatosDeConfiguracion.Contracts.csproj": {
+                "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Contracts\\DatosDeConfiguracion.Contracts.csproj"
+              },
+              "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Domain\\DatosDeConfiguracion.Domain.csproj": {
+                "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Domain\\DatosDeConfiguracion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Domain\\DatosDeConfiguracion.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Domain\\DatosDeConfiguracion.Domain.csproj",
+        "projectName": "DatosDeConfiguracion.Domain",
+        "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Domain\\DatosDeConfiguracion.Domain.csproj",
+        "packagesPath": "C:\\Users\\DARIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DARIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.GrpcProtos\\DatosDeConfiguracion.GrpcProtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.GrpcProtos\\DatosDeConfiguracion.GrpcProtos.csproj",
+        "projectName": "DatosDeConfiguracion.GrpcProtos",
+        "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.GrpcProtos\\DatosDeConfiguracion.GrpcProtos.csproj",
+        "packagesPath": "C:\\Users\\DARIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.GrpcProtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DARIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.27.2, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.63.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Services\\DatosDeConfiguracion.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Services\\DatosDeConfiguracion.Services.csproj",
+        "projectName": "DatosDeConfiguracion.Services",
+        "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Services\\DatosDeConfiguracion.Services.csproj",
+        "packagesPath": "C:\\Users\\DARIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DARIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Application\\DatosDeConfiguracion.Application.csproj": {
+                "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.Application\\DatosDeConfiguracion.Application.csproj"
+              },
+              "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.DataAccess\\DatosDeConfiguracion.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.DataAccess\\DatosDeConfiguracion.DataAccess.csproj"
+              },
+              "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.GrpcProtos\\DatosDeConfiguracion.GrpcProtos.csproj": {
+                "projectPath": "C:\\Users\\DARIEL\\source\\repos\\Team9Repository\\Visual Project\\DatosDeConfiguracion\\DatosDeConfiguracion.GrpcProtos\\DatosDeConfiguracion.GrpcProtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.63.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

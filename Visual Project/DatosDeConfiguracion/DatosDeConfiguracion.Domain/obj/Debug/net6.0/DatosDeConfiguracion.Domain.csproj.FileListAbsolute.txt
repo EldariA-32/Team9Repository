@@ -1,0 +1,14 @@
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\bin\Debug\net6.0\DatosDeConfiguracion.Domain.deps.json
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\bin\Debug\net6.0\DatosDeConfiguracion.Domain.runtimeconfig.json
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\bin\Debug\net6.0\DatosDeConfiguracion.Domain.dll
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\bin\Debug\net6.0\DatosDeConfiguracion.Domain.pdb
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\obj\Debug\net6.0\DatosDeConfiguracion.Domain.csproj.AssemblyReference.cache
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\obj\Debug\net6.0\DatosDeConfiguracion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\obj\Debug\net6.0\DatosDeConfiguracion.Domain.AssemblyInfoInputs.cache
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\obj\Debug\net6.0\DatosDeConfiguracion.Domain.AssemblyInfo.cs
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\obj\Debug\net6.0\DatosDeConfiguracion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\obj\Debug\net6.0\DatosDeConfiguracion.Domain.dll
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\obj\Debug\net6.0\refint\DatosDeConfiguracion.Domain.dll
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\obj\Debug\net6.0\DatosDeConfiguracion.Domain.pdb
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\obj\Debug\net6.0\DatosDeConfiguracion.Domain.genruntimeconfig.cache
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Domain\obj\Debug\net6.0\ref\DatosDeConfiguracion.Domain.dll

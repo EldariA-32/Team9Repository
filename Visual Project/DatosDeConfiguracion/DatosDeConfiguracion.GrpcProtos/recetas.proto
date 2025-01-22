@@ -1,0 +1,44 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "DatosDeConfiguracion.GrpcProtos";
+
+package GrpcProtos;
+
+import "google/protobuf/wrappers.proto";
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/empty.proto";
+import "google/protobuf/struct.proto";
+import "common.proto";
+
+service Receta {
+	rpc CreateReceta(CreateRecetaRequest) returns (RecetaDTO);
+	rpc GetReceta(GetRequest) returns (NullableRecetaDTO);
+	rpc GetAllRecetas(google.protobuf.Empty) returns (Recetas);
+	rpc UpdateReceta(RecetaDTO) returns (google.protobuf.Empty);
+	rpc DeleteReceta(DeleteRequest) returns (google.protobuf.Empty);
+}
+
+message RecetaDTO{
+	string id = 1;
+	string productoId = 2;
+	google.protobuf.Timestamp fechaCreacion = 3;
+	google.protobuf.Timestamp fechaValidacion = 4;
+	string expertoValidacion = 5;
+}
+
+message Recetas{
+	repeated RecetaDTO items = 1;
+}
+
+message NullableRecetaDTO{
+	oneof kind{
+	google.protobuf.NullValue null = 1;
+	RecetaDTO receta = 2;
+	}
+} 
+
+message CreateRecetaRequest{
+	string productoId = 1;
+	google.protobuf.Timestamp fechaValidacion = 2;
+	string expertoValidacion = 3;
+}

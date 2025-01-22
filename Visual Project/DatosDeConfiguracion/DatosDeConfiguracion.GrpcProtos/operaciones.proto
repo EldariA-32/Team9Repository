@@ -1,0 +1,44 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "DatosDeConfiguracion.GrpcProtos";
+
+package GrpcProtos;
+
+import "google/protobuf/wrappers.proto";
+import "google/protobuf/empty.proto";
+import "google/protobuf/struct.proto";
+import "common.proto";
+
+service Operacion {
+	rpc CreateOperacion(CreateOperacionRequest) returns (OperacionDTO);
+	rpc GetOperacion(GetRequest) returns (NullableOperacionDTO);
+	rpc GetAllOperaciones(google.protobuf.Empty) returns (Operaciones);
+	rpc UpdateOperacion(OperacionDTO) returns (google.protobuf.Empty);
+	rpc DeleteOperacion(DeleteRequest) returns (google.protobuf.Empty);
+}
+
+message OperacionDTO{
+	string id = 1;
+	string recetaId = 2;
+	string nombre = 3;
+	string descripcion = 4;
+	string unidad = 5;
+}
+
+message Operaciones{
+	repeated OperacionDTO items = 1;
+}
+
+message NullableOperacionDTO{
+	oneof kind{
+	google.protobuf.NullValue null = 1;
+	OperacionDTO operacion = 2;
+	}
+} 
+
+message CreateOperacionRequest{
+	string recetaId = 1;
+	string nombre = 2;
+	string descripcion = 3;
+	string unidad = 4;
+}

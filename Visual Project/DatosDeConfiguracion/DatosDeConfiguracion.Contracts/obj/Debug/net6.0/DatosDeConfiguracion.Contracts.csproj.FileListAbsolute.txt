@@ -1,0 +1,15 @@
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\bin\Debug\net6.0\DatosDeConfiguracion.Contracts.deps.json
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\bin\Debug\net6.0\DatosDeConfiguracion.Contracts.dll
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\bin\Debug\net6.0\DatosDeConfiguracion.Contracts.pdb
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\bin\Debug\net6.0\DatosDeConfiguracion.Domain.dll
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\bin\Debug\net6.0\DatosDeConfiguracion.Domain.pdb
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\obj\Debug\net6.0\DatosDeConfiguracion.Contracts.csproj.AssemblyReference.cache
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\obj\Debug\net6.0\DatosDeConfiguracion.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\obj\Debug\net6.0\DatosDeConfiguracion.Contracts.AssemblyInfoInputs.cache
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\obj\Debug\net6.0\DatosDeConfiguracion.Contracts.AssemblyInfo.cs
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\obj\Debug\net6.0\DatosDeConfiguracion.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\obj\Debug\net6.0\DatosDeConfiguracion.Contracts.csproj.CopyComplete
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\obj\Debug\net6.0\DatosDeConfiguracion.Contracts.dll
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\obj\Debug\net6.0\refint\DatosDeConfiguracion.Contracts.dll
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\obj\Debug\net6.0\DatosDeConfiguracion.Contracts.pdb
+C:\Users\DARIEL\source\repos\Team9Repository\Visual Project\DatosDeConfiguracion\DatosDeConfiguracion.Contracts\obj\Debug\net6.0\ref\DatosDeConfiguracion.Contracts.dll

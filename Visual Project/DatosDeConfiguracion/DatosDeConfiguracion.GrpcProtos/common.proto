@@ -1,0 +1,32 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "DatosDeConfiguracion.GrpcProtos";
+
+package GrpcProtos;
+
+message GetRequest
+{
+    string id = 1;
+}
+
+message DeleteRequest
+{
+    string id = 1;
+}
+
+message AccionDeControl
+{       string accionId = 1;
+        string faseId = 2;
+	    string nombre = 3;
+        double magnitud = 4;
+        string unidadMedida = 5;
+}
+
+enum FormaEnvase
+{
+        Botella = 0;
+        Caja = 1;
+        Ampula = 2;
+        Blister = 3;
+        Bolsa = 4;
+}
